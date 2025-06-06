@@ -1,28 +1,40 @@
 # Beginner Java Projects
 
-## Description
-This repository contains beginner-level Java projects to practice core programming concepts.  
-Currently included:
-- **EnhancedCalculator**: A simple calculator performing basic arithmetic operations.
-- **Upcoming Projects**: Contact Manager or To-Do App (to be added soon).
+This folder contains beginner-level Java projects demonstrating basic programming concepts such as object-oriented programming, collections, and console input/output.
 
-## Projects Overview
+## Projects Included
 
-### EnhancedCalculator
-- Perform addition, subtraction, multiplication, and division.
-- Handles input validation to avoid errors (e.g., division by zero).
-- Console-based interactive interface.
+### 1. Enhanced Calculator
+A simple console-based calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division.  
+**Key Features:**
+- Takes user input for two numbers and the operation.
+- Displays the calculation result.
+- Handles invalid input gracefully.
 
-### Contact Manager / To-Do App (Coming Soon)
-- Manage contacts or to-do tasks with add, edit, delete functionality.
-- Demonstrates object-oriented programming and data handling.
-- User-friendly console or simple GUI interface.
+### 2. Contact Manager
+A console application to manage contacts by adding, viewing, searching, editing, and deleting contact entries.  
+**Key Features:**
+- Stores contacts with name, phone number, and email.
+- Supports searching contacts by name.
+- Edit or delete contacts by selection.
+- Uses ArrayList for dynamic storage of contacts.
 
-## Technologies Used
-- Java (JDK 8 or above)
-- IDEs -VS Code
+## How to Run
 
-## Installation and Setup
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Syedrayyangithub/ShadowFox.git
+1. Compile the Java files inside each project folder using `javac`.
+2. Run the main class (`EnhancedCalculator.java` or `ContactManager.java`) using `java`.
+3. Follow the console prompts to use the application.
+
+## Future Projects
+
+- To-Do App (optional)
+- Intermediate and advanced projects coming soon!
+
+---
+
+Feel free to explore, modify, and extend these projects as you learn more about Java programming.
+
+---
+
+**Author:** Syed Rayyan Hussain  
+**GitHub:** [Syedrayyangithub](https://github.com/Syedrayyangithub)
