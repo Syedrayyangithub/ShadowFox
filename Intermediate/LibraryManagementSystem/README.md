@@ -161,10 +161,6 @@ java --module-path target/dependency --add-modules javafx.controls,javafx.fxml -
 - Uses Apache HttpClient for API requests
 - Jackson for JSON processing
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Google Books API for book data
