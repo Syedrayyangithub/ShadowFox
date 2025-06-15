@@ -1,0 +1,9 @@
+com\example\LibraryManagementSystem\Main$1.class
+com\example\LibraryManagementSystem\model\Borrowing.class
+com\example\LibraryManagementSystem\api\GoogleBooksAPI$BookInfo.class
+com\example\LibraryManagementSystem\model\User.class
+com\example\LibraryManagementSystem\database\DatabaseManager.class
+com\example\LibraryManagementSystem\api\GoogleBooksAPI.class
+com\example\LibraryManagementSystem\Main.class
+com\example\LibraryManagementSystem\Main$2.class
+com\example\LibraryManagementSystem\model\Book.class

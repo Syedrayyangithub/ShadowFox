@@ -1,0 +1,64 @@
+/* Vibrant, modern JavaFX stylesheet */
+
+.root {
+    -fx-background-color: #2575fc;
+}
+
+.header-label {
+    -fx-text-fill: white;
+    -fx-font-size: 28px;
+    -fx-font-weight: bold;
+    -fx-padding: 20 0 30 0;
+    -fx-effect: dropshadow(gaussian, #00000088, 8, 0.2, 0, 2);
+}
+
+.button {
+    -fx-background-color: #43e97b;
+    -fx-text-fill: #222;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 20;
+    -fx-padding: 8 20 8 20;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(gaussian, #00000044, 4, 0.1, 0, 1);
+    -fx-border-color: #fff;
+    -fx-border-radius: 20;
+    -fx-border-width: 1;
+    -fx-transition: all 0.2s;
+}
+.button:hover {
+    -fx-background-color: #38f9d7;
+    -fx-text-fill: #111;
+}
+
+.list-view {
+    -fx-background-color: #ffffffcc;
+    -fx-border-radius: 12;
+    -fx-background-radius: 12;
+    -fx-padding: 10;
+    -fx-effect: dropshadow(gaussian, #00000022, 6, 0.1, 0, 1);
+}
+
+.text-field, .text-area {
+    -fx-background-color: #fff;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-padding: 6 10 6 10;
+    -fx-font-size: 14px;
+}
+
+.label {
+    -fx-text-fill: #f0f0f0;
+    -fx-font-size: 15px;
+}
+
+.alert {
+    -fx-background-color: #fffbe6;
+    -fx-border-color: #ffe066;
+    -fx-border-width: 2;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-font-size: 16px;
+}
+
+/* Add more styles as needed for a vibrant, modern look */ 
