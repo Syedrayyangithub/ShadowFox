@@ -1,0 +1,4 @@
+com\example\chat\ChatClient.class
+com\example\chat\ImageGenerator.class
+com\example\chat\ChatServer.class
+com\example\chat\ChatServer$ClientHandler.class
