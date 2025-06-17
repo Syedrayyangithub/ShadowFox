@@ -114,7 +114,7 @@ java --module-path target/dependency --add-modules javafx.controls,javafx.fxml -
 
 4. **Getting Recommendations**
    - Click "Get Recommendations"
-   - View personalized recommendations based on your borrowing history
+   - View personalized recommendations based on your borrowing history.
 
 #### Online Features
 
