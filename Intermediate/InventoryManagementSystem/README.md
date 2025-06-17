@@ -91,4 +91,4 @@ To modify or extend the application:
 
 ## License
 
-This project is part of the ShadowFox learning series and is available for educational purposes. 
+This project is part of the ShadowFox learning series and is available for educational purposes..
